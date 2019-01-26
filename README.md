@@ -18,7 +18,7 @@ A _PrevLex.txt_ egy TSV formátumú fájl, amely a következő oszlopokból áll
 
 Felhasználható oktatási, kutatási és magáncélra. Felhasználása esetén az alábbi cikk hivatkozandó:
 
-Kalivoda Ágnes (2019). _Véges erőforrás végtelen sok igekötős igére._ In: Berend Gábor, Gosztolya Gábor, Vincze Veronika (szerk.): XV. Magyar Számítógépes Nyelvészeti Konferencia (MSZNY 2019). Szeged, 2019. január 24-25. p. 331--344.
+Kalivoda Ágnes (2019). _Véges erőforrás végtelen sok igekötős igére._ In: Berend Gábor, Gosztolya Gábor, Vincze Veronika (szerk.): XV. Magyar Számítógépes Nyelvészeti Konferencia (MSZNY 2019). Szeged, 2019. január 24-25. p. 331-344.
 
     @inproceedings{kalivoda2019,
         title = {V{\'e}ges er\H{o}forr{\'a}s v{\'e}gtelen sok igek\"{o}t\H{o}s ig{\'e}re},
