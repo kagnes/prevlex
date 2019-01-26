@@ -2,7 +2,7 @@
 
 A _PrevLex_ a magyar igekötős igék jelenleg legbővebb, manuálisan ellenőrzött táblázata. A [Magyar Nemzeti Szövegtár 2.0.4](http://clara.nytud.hu/mnsz2-dev/) ([Oravecz et al. 2014](http://www.lrec-conf.org/proceedings/lrec2014/pdf/681_Paper.pdf)) felhasználásával készült. Az igekötős finit igéken túl szerepelnek benne a korpuszban UNKNOWN-nak címkézett szavak és a hapaxok (egyszer előforduló szavak) is.
 
-A _PrevLex_ részletes ismertetéséhez ld. [Kalivoda (2019)](http://rgai.inf.u-szeged.hu/project/mszny2019/files/mszny2019.pdf).
+A _PrevLex_ részletes ismertetéséhez ld. [Kalivoda (2019)](http://rgai.inf.u-szeged.hu/project/mszny2019/files/mszny2019.pdf#section.0.28).
 
 # Az erőforrás szerkezete
 
