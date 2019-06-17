@@ -13,7 +13,7 @@ A _PrevLex.txt_ egy TSV formátumú fájl, amely a következő oszlopokból áll
 3. oszlop: kétféle érték állhat itt, attól függően, hogy az ige kapott-e megfelelő annotációt az MNSZ 2.0.4-ben (FIN, ha igen és UNKNOWN, ha nem)
 4. oszlop: azt jelzi, hogy az ige hány dokumentumban fordult elő
 5. oszlop: a normalizált alak, amely csak a neologizmusoknál térhet el az első oszlop tartalmától (pl. agyon+hypeol ⟶ agyon+hájpol)
-6. oszlop és attól fölfelé: a konkrét igealak és szóközzel elválasztva a gyakorisága (az igealakok gyakoriság szerint csökkenő sorrendben állnak)
+6. oszlop és attól fölfelé: a konkrét igealak (az igekötő itt csak a könnyebb átláthatóság végett nincs feltüntetve) és szóközzel elválasztva a gyakorisága; az igealakok gyakoriság szerint csökkenő sorrendben állnak
 
 # Licensz
 
